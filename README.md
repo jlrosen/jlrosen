@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlrosen
 - 👀 I’m interested in medical research.
-- 🌱 I’m currently researching cardiovascular surgical outcomes.
+- 🌱 I’m currently researching cardiovascular surgery outcomes.
 - 💞️ I’m looking to collaborate on anything!
 
 
